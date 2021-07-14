@@ -1,0 +1,29 @@
+button{
+    margin: 25px;
+    padding: 10px;
+    background-color: lime;
+    border-radius: 12px;
+   
+}
+.buttons{
+    position: absolute;
+    top: 50%;
+    left: 35%;
+}
+
+h1 {
+    text-align: center;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+}
+
+h2{
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 38%;
+}
+body{
+    background-color:lightgreen;
+}
